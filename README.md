@@ -11,7 +11,7 @@ My technical acumen is fortified with AWS Certified Solutions Architect and Azur
 As I seek my next challenge, I am eager to leverage my extensive skill set in an environment that fosters growth, innovation, and continuous learning in the ever-evolving IT landscape. I am excited about opportunities to apply and expand my software development capabilities, particularly in roles that emphasize cloud computing and backend development.
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhruv_savaliya?theme=light&font=Chathura&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhruv_savaliya?theme=light&font=Source%20Sans%20Pro&ext=heatmap)
 
 <!--
 ## 🌱 Technical Skills
