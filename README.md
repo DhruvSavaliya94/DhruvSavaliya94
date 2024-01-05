@@ -18,14 +18,43 @@ As I seek my next challenge, I am eager to leverage my extensive skill set in an
 
 
 
-<!--
-## 🌱 Technical Skills
-* *Technical*: C#, Python, HTML, CSS, JavaScript, TypeScript, jQuery, SQL, MongoDB, Azure, AWS, Docker, JSON, Unit Testing
-* *Libraries*: ASP.NET Core, Pandas, NumPy, Node.js
-* *Architecture*: REST API, Microservices, MVC, Object-Oriented, Serverless, Pub/Sub
-* *Tools*: VS Code, Visual Studio, Azure Data Studio, Postman, Git, SQL Server, Bash, Terminal
-* *Methodology*: Agile Scrum, Azure DevOps & CI/CD GitHub Actions
--->
+## 🌱 Skills
+<table>
+<tr>
+<td>
+
+### Programming Language: 
+C# 9/10, Python 3, Java 8, JavaScript ES5/ES6, TypeScript
+
+### .NET Ecosystem:
+.NET Framework, .NET Core, .NET 5, and later, ASP.NET, Blazor, Entity Framework, Razor Pages, MVC (Model-View-Controller), Entity Framework, LINQ
+
+### Front-End Web Technologies:
+HTML5, CSS3, Bootstrap 4.0, jQuery, Single Page Application, Progressive Web App (PWA), React, Angular, Chrome DevTools
+
+### Development Tools:
+Visual Studio, VS Code, Android Studio, SSMS, .NET CLI, NuGet, NPM, Docker, Terminal
+
+</td>
+<td>
+
+### Cloud Computing:
+AWS, EC2, S3, SQS, SNS, Lambda, RDS, IAM, DynamoDB, CloudFront, VPC, Route53, KMS
+Microsoft Azure, Active Directory, Azure DevOps, Web Apps, Blob, Cognitive Services
+
+### Databases:
+SQL Server, MySQL, PostgreSQL, NoSQL, MongoDB, DynamoDB
+
+### Automation Build and Version Control:
+MSBuild, TSC, Git, GitHub, Azure DevOps
+
+### Testing Tools:
+NUnit, xUnit, Selenium WebDriver, Chrome DevTools, Postman, Swagger
+
+</td>
+</tr>
+</table>
+
 
 
 <!--
