@@ -13,7 +13,7 @@ I have played a pivotal role in various high-impact projects, leading the develo
 My technical acumen is fortified with AWS Certified Solutions Architect and Azure Fundamental Certifications, reflecting my deep understanding of cloud solutions and my commitment to delivering optimal performance, scalability, and cost-efficiency. This expertise is supplemented by my advanced knowledge in system and network architecture, garnered from pursuing a master’s degree in Information Technology at Clark University.
 
 As I seek my next challenge, I am eager to leverage my extensive skill set in an environment that fosters growth, innovation, and continuous learning in the ever-evolving IT landscape. I am excited about opportunities to apply and expand my software development capabilities, particularly in roles that emphasize cloud computing and backend development.
-
+<!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhruv_savaliya?theme=light&font=Source%20Sans%20Pro&ext=heatmap)
 
 
@@ -58,7 +58,7 @@ NUnit, xUnit, Selenium WebDriver, Chrome DevTools, Postman, Swagger
 
 
 
-<!--
+
 **DhruvSavaliya94/DhruvSavaliya94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
